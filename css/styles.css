@@ -1,0 +1,7 @@
+body{
+    background-image: url('assets/imgs/fondo.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    height: 100%;
+}
